@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center"
+                <a href="https://github.com/RohanRaviKumar">
+                    <img src="https://avatars.githubusercontent.com/u/149759589?v=4" width="100px;"
+                        alt="Rohan R" />
+                    <br />
+                    <sub>
+                        <b>Rohan R</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
